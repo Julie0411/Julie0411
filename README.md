@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jane
+# 👋 Hi, I'm Julie Jane
 
 Junior software developer based in Switzerland 🇨🇭  
 Curious, detail-oriented, and learning step by step — by building.
